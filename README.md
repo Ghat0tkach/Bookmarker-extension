@@ -11,5 +11,5 @@ $ npm start
 ## SCREENSHOT
 
 
-![](Screenshot(18).png)
+![](Screenshot (18).png)
 
